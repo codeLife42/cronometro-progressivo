@@ -1,0 +1,46 @@
+body{
+	background: #0e2f44;
+	font-family: 'Roboto', sans-serif;
+	color: #191919;
+}
+h1{
+	margin: 0;
+	font-size: 50px;
+	font-weight: normal;
+	text-transform: uppercase;
+	text-align: center;
+	color: #191919;
+}
+h3{
+	font-size: 150px;
+	margin: 0;
+	text-align: center;
+	margin: 50px;
+}
+p{
+	font-size: 20px;
+	margin: 0;
+	padding-top: 5px;
+}
+#principal{
+	background: #f7f7f7;
+	margin: 0 auto;
+	width: 50%;
+	height: 50%;
+	min-width: 600px;
+	min-height: 500px;
+	padding: 20px;
+}
+#botoes{
+	text-align: center;
+}
+.botao{
+	width: 32.5%;
+	height: 150px;
+	border: none;
+	font-size: 30px;
+	background: #468499;
+}
+button:disabled{
+	color: white;
+}
